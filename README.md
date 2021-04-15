@@ -16,10 +16,8 @@ How to integrate Git, GitHub in Visual Studio Code
 6.Verify if Git is Enables in VS Code settings :
    On Windows : Open VS Code -> File -> Preferences -> Settings -> Search for 'git enabled'
    On macOS   : Open VS Code -> Code -> Preferences -> Settings -> Search for 'git enabled'
-   
-   ![](images/git-enabled-vscode.PNG)
-   
-   <img src='images/git-enabled-vscode.PNG' width=400>
+ 
+   <img src='images/git-enabled-vscode.PNG' width=600>
 
 
 
